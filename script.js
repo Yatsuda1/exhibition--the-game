@@ -12,7 +12,7 @@ const dailyCards = [
     { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. You cannot complete it. You may not veto this card.", points: 0 },
     { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. Halve it's point value. You may not veto this card.", points: 0 },
     { name: "Cursed!", description: "Find someone playing Exhibition, and give them 1,000 points. You may not veto this card.", points: -1000 },
-    { name: "Modifier", description: "Double the worth of one of your two remaining challenge cards.", points: 0 },
+    { name: "Modifier!", description: "Double the worth of one of your two remaining challenge cards.", points: 0 },
     { name: "Free!", description: "Free 250 points. If you wish to veto this card, the price is zero points.", points: 250 },
     // Add more daily cards as needed
 ];
@@ -24,7 +24,7 @@ const weeklyCards = [
     { name: "Reminiscing", description: "Find 15 teachers you've had in the past, and get their autographs. If you haven't had 15 teachers yet, get any 15.", points: 1250 },
     { name: "Improper Dressing", description: "If during winter, wear full summer attire; shorts, t-shirt, sandals. If it is not winter you may reroll your hand.", points: 1100 },
     { name: "Photogenic", description: "Take 3 selfies with Bourdage in the background.", points: 1250 },
-    { name: "L", description: "Write an "L" on your forehead. It must stay there all week.", points: 1500 },
+    { name: "L", description: "Write an L on your forehead. It must stay there all week.", points: 1500 },
     { name: "Aggressive Hand Signs", description: "Flip off Mrs. Florip 3 times thurought the week. Must be on 3 seperate days. +1000 points if she notices.", points: 2000 },
     { name: "Attractive", description: "Talk to 5 of your teachers. You must bring up in casual conversation that they look really hot.", points: 1500 },
     { name: "Never Forget", description: "Once per day, put a sticky not on King Stoppa's old door that reads, -We Miss You King Stoppa", points: 1250 },
