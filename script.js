@@ -25,7 +25,7 @@ const weeklyCards = [
     { name: "Improper Dressing", description: "If during winter, wear full summer attire; shorts, t-shirt, sandals. If it is not winter you may reroll your hand.", points: 1100 },
     { name: "Photogenic", description: "Take 3 selfies with Bourdage in the background.", points: 1250 },
     { name: "L", description: "Write an "L" on your forehead. It must stay there all week.", points: 1500 },
-    { name: "Aggressive Hand Signs", description: "Flip off Mrs. Florip 3 times thurought the week. Must be on 3 seperate days. +1000 points if she notices.", points: 35 },
+    { name: "Aggressive Hand Signs", description: "Flip off Mrs. Florip 3 times thurought the week. Must be on 3 seperate days. +1000 points if she notices.", points: 2000 },
     { name: "Attractive", description: "Talk to 5 of your teachers. You must bring up in casual conversation that they look really hot.", points: 1500 },
     { name: "Never Forget", description: "Once per day, put a sticky not on King Stoppa's old door that reads, -We Miss You King Stoppa", points: 1250 },
     { name: "Scary!", description: "Find Evan McDonald, and scare him each day.", points: 1500 },
