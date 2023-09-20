@@ -14,6 +14,7 @@ const dailyCards = [
     { name: "Cursed!", description: "Find someone playing Exhibition, and give them 1,000 points. You may not veto this card.", points: -1000 },
     { name: "Modifier!", description: "Double the worth of one of your two remaining challenge cards.", points: 0 },
     { name: "Free!", description: "Free 250 points. If you wish to veto this card, the price is zero points.", points: 250 },
+    { name: "Tag", description: "Find someone else who drew this card, and play tag with them. If you are the only one who drew this card, you may choose who to play tag with. Whoever is it by the end of the day loses 500 points.", points: 500 },
     // Add more daily cards as needed
 ];
 
