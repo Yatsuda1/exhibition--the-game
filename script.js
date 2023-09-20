@@ -17,6 +17,7 @@ const dailyCards = [
     { name: "Tag", description: "Find someone else who drew this card, and play tag with them. If you are the only one who drew this card, you may choose who to play tag with. Whoever is it by the end of the day loses 500 points.", points: 500 },
     { name: "Game Time!", description: "Challenge a friend to a simple game. Example: Uno, tic tac toe. If you win, you get 300 points, if you lose, you get 300 points taken off your total.", points: 300 },
     { name: "Poster Child", description: "Put up 3 posters stealthily thurought the day, one in the Auditorium, One in C house somewhere, and one in a location of your choosing. Each poster must have something on it that will get it taken down. If you get caught putting it up, you do not claim the points for this card.", points: 500 },
+    { name: "Colorful", description: "Give yourself some tatoos. Markers will do. Must be visible, and you must have at least 3. Make them large enough that you could see it from another table.", points: 250 },
     // Add more daily cards as needed
 ];
 
