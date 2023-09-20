@@ -16,28 +16,6 @@ h1 {
     margin: 20px 0;
 }
 
-/* Text Box Styles */
-.textbox {
-    margin: 20px auto;
-    max-width: 300px;
-    text-align: center;
-}
-
-.textbox label {
-    display: block;
-    margin-bottom: 5px;
-    color: #ffcc00;
-}
-
-.textbox input[type="text"] {
-    width: 100%;
-    padding: 10px;
-    border: none;
-    border-radius: 20px;
-    background-color: #444;
-    color: #fff;
-}
-
 /* Select Styles */
 select {
     font-size: 16px;
