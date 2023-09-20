@@ -18,20 +18,20 @@ const dailyCards = [
 ];
 
 const weeklyCards = [
-    { name: "Weekly Card 1", description: "Description for Weekly Card 1", points: 20 },
-    { name: "Weekly Card 2", description: "Description for Weekly Card 2", points: 25 },
-    { name: "Weekly Card 3", description: "Description for Weekly Card 3", points: 30 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
-    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Present!", description: "Have Perfect Attendance", points: 1000 },
+    { name: "Paying Attention", description: "Never use SmartPass", points: 1000 },
+    { name: "Hungry", description: "Eat school lunch every day. You must get a full lunch. You must eat the whole meal.", points: 1250 },
+    { name: "Reminiscing", description: "Find 15 teachers you've had in the past, and get their autographs. If you haven't had 15 teachers yet, get any 15.", points: 1250 },
+    { name: "Improper Dressing", description: "If during winter, wear full summer attire; shorts, t-shirt, sandals. If it is not winter you may reroll your hand.", points: 1100 },
+    { name: "Photogenic", description: "Take 3 selfies with Bourdage in the background.", points: 1250 },
+    { name: "L", description: "Write an "L" on your forehead. It must stay there all week.", points: 1500 },
+    { name: "Aggressive Hand Signs", description: "Flip off Mrs. Florip 3 times thurought the week. Must be on 3 seperate days. +1000 points if she notices.", points: 35 },
+    { name: "Attractive", description: "Talk to 5 of your teachers. You must bring up in casual conversation that they look "Really Hot."", points: 1500 },
+    { name: "Never Forget", description: "Once per day, put a sticky not on King Stoppa's old door that reads, "We miss you King Stoppa."", points: 1250 },
+    { name: "Scary!", description: "Find Evan McDonald, and scare him each day.", points: 1500 },
+    { name: "Wrong Season", description: "Each day, dress for christmas. If it is Christmas season, dress for halloween.", points: 1500 },
+    { name: "Bet!", description: "Sacrafice one of your weekly cards, and triple the point value of your last remaining challenge. If you do not complete the card by the end of the week, you lose the points from your total score. You do not need to accept this card, you may veto it for zero cost.", points: 0 },
+    { name: "Sucks to Suck", description: "You do not get a third weekly challenge. You do not get any points for this card. You cannot veto this card. Sucks to Suck", points: 0 },
     // Add more weekly cards as needed
 ];
 
