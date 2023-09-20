@@ -8,11 +8,11 @@ const dailyCards = [
     { name: "Hat Head", description: "Wear 5 hats at the same time. Do not steal any stranger's hats.", points: 350 },
     { name: "THURSTON!", description: "Find and high five Thurston Imhoff. If you are Thurston Imhoff, high five yourself.", points: 400 },
     { name: "Art Commission", description: "Draw and hang up a picture in Mr.Thatcher's room. (E-205)", points: 500 },
-    { name: "Bet!", description: "Take any weekly card not yet completed. You may wager as many or as little points as you wish, up to 2500 points. If you do not complete the challenge, you lose those points from your total score.", points: N/A },
-    { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. You cannot complete it. You may not veto this card.", points: N/A },
-    { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. Halve it's point value. You may not veto this card.", points: N/A },
+    { name: "Bet!", description: "Take any weekly card not yet completed. You may wager as many or as little points as you wish, up to 2500 points. If you do not complete the challenge, you lose those points from your total score.", points: 0 },
+    { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. You cannot complete it. You may not veto this card.", points: 0 },
+    { name: "Cursed!", description: "You must pick between one of the two challenge cards in your draw. Halve it's point value. You may not veto this card.", points: 0 },
     { name: "Cursed!", description: "Find someone playing Exhibition, and give them 1,000 points. You may not veto this card.", points: -1000 },
-    { name: "Modifier", description: "Double the worth of one of your two remaining challenge cards.", points: N/A },
+    { name: "Modifier", description: "Double the worth of one of your two remaining challenge cards.", points: 0 },
     { name: "Free!", description: "Free 250 points. If you wish to veto this card, the price is zero points.", points: 250 },
     // Add more daily cards as needed
 ];
