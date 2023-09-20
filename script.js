@@ -36,20 +36,20 @@ const weeklyCards = [
 ];
 
 const monthlyCards = [
-    { name: "Monthly Card 1", description: "Description for Monthly Card 1", points: 50 },
-    { name: "Monthly Card 2", description: "Description for Monthly Card 2", points: 75 },
-    { name: "Monthly Card 3", description: "Description for Monthly Card 3", points: 100 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
-    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Bandwagon", description: "Get 2 people each to join in and play Exhibition. +500 points per extra person.", points: 3000 },
+    { name: "Completionist", description: "Complete every weekly challenge with using a veto.", points: 3250 },
+    { name: "Collector", description: "Get 100 signatures from 100 different students. No repeats, and you may only collect signature during school hours. Signatures must be on paper.", points: 3500 },
+    { name: "Baker", description: "Bring in cookies for every class you have, twice this month. You must have enough cookies for each person.", points: 3750 },
+    { name: "Dieting", description: "Go vegan for the whole month", points: 3500 },
+    { name: "Culture Oriented", description: "Find and talk to every foreign exchange student.", points: 3250 },
+    { name: "Shy", description: "Sit at a different lunch table each day. Go make some new friends.", points: 3000 },
+    { name: "Deutsch", description: "Say Guten Morgen to Frau Lemont every morning. (E-105)", points: 2750 },
+    { name: "Foodie", description: "Go through a different lunch line every day. Eat a full meal from the line, you must finish the full meal.", points: 3250 },
+    { name: "Repitition", description: "Draw a 4th card from the weekly card pile. It now acts as your monthly card, and you must use it each week. You may only veto this card before you decide to draw the weekly card.", points: 3500 },
+    { name: "Letters", description: "Every Tuesday and Thursday, write a letter with your current thoughts in it. Do not sign the letter, or put names in the letter. Give it to someone you do not know.", points: 3500 },
+    { name: "Gender Swap", description: "Convince your friends you are swapping genders. Do not thell them you are doing this for a card. You may reroll this card for free.", points: 5000 },
+    { name: "Dancing", description: "Dance all the way to all of your classes. +750 points if you always griddy.", points: 3250 },
+    { name: "Bri' ish", description: "Act British all month. Never break character.", points: 5000 },
     // Add more monthly cards as needed
 ];
 
