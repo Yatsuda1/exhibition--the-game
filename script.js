@@ -4,6 +4,16 @@ const dailyCards = [
     { name: "Daily Card 2", description: "Description for Daily Card 2", points: 10 },
     { name: "Daily Card 3", description: "Description for Daily Card 3", points: 15 },
     { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
+    { name: "Daily Card 4", description: "Description for Daily Card 4", points: 20 },
     // Add more daily cards as needed
 ];
 
@@ -12,6 +22,16 @@ const weeklyCards = [
     { name: "Weekly Card 2", description: "Description for Weekly Card 2", points: 25 },
     { name: "Weekly Card 3", description: "Description for Weekly Card 3", points: 30 },
     { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
+    { name: "Weekly Card 4", description: "Description for Weekly Card 4", points: 35 },
     // Add more weekly cards as needed
 ];
 
@@ -19,6 +39,16 @@ const monthlyCards = [
     { name: "Monthly Card 1", description: "Description for Monthly Card 1", points: 50 },
     { name: "Monthly Card 2", description: "Description for Monthly Card 2", points: 75 },
     { name: "Monthly Card 3", description: "Description for Monthly Card 3", points: 100 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
+    { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
     { name: "Monthly Card 4", description: "Description for Monthly Card 4", points: 125 },
     // Add more monthly cards as needed
 ];
