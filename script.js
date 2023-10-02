@@ -19,7 +19,8 @@ const dailyCards = [
     { name: "Poster Child", description: "Put up 3 posters stealthily thurought the day, one in the Auditorium, One in C house somewhere, and one in a location of your choosing. Each poster must have something on it that will get it taken down. If you get caught putting it up, you do not claim the points for this card.", points: 500 },
     { name: "Colorful", description: "Give yourself some tatoos. Markers will do. Must be visible, and you must have at least 3. Make them large enough that you could see it from another table.", points: 250 },
     { name: "Patriotism", description: "During the entirety of the advisory hour, you must salute the flag. Do not say anything, and do not let anyone make you break. If someone physically moves you, you may resume the form without losing the card. +500 points if you are down on one knee the entire time.", points: 350 },
-    { name: "Wasteful", descriptionL "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
+    { name: "Wasteful", description: "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
+    { name: "Pencil Connisour", description: "Use a different pencil each hour. You must use at least 3 wooden #2 pencils.", points: 150},
     // Add more daily cards as needed
 ];
 
