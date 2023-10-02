@@ -22,6 +22,7 @@ const dailyCards = [
     { name: "Wasteful", description: "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
     { name: "Pencil Connisour", description: "Use a different pencil each hour. You must use at least 3 wooden #2 pencils.", points: 150},
     { name: "Bri' ish", description: "Act British all month. Never break character.", points: 500 },
+    { name: "Tone Deaf", description: "Hum a song thorought the day. 100 points per person that guesses the song correctly.", points: 100x},
     // Add more daily cards as needed
 ];
 
@@ -40,6 +41,7 @@ const weeklyCards = [
     { name: "Wrong Season", description: "Each day, dress for christmas. If it is Christmas season, dress for halloween.", points: 1500 },
     { name: "Bet!", description: "Sacrafice one of your weekly cards, and triple the point value of your last remaining challenge. If you do not complete the card by the end of the week, you lose the points from your total score. You do not need to accept this card, you may veto it for zero cost.", points: 0 },
     { name: "Sucks to Suck", description: "You do not get a third weekly challenge. You do not get any points for this card. You cannot veto this card. Sucks to Suck", points: 0 },
+    { name: "History Major", description: "During a lunch hour, get a friend who is also playing Exhibition to recreate a historic event. 1500 points to each of you.", points: 1500 },
     // Add more weekly cards as needed
 ];
 
