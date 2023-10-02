@@ -21,6 +21,7 @@ const dailyCards = [
     { name: "Patriotism", description: "During the entirety of the advisory hour, you must salute the flag. Do not say anything, and do not let anyone make you break. If someone physically moves you, you may resume the form without losing the card. +500 points if you are down on one knee the entire time.", points: 350 },
     { name: "Wasteful", description: "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
     { name: "Pencil Connisour", description: "Use a different pencil each hour. You must use at least 3 wooden #2 pencils.", points: 150},
+    { name: "Bri' ish", description: "Act British all month. Never break character.", points: 500 },
     // Add more daily cards as needed
 ];
 
@@ -56,7 +57,6 @@ const monthlyCards = [
     { name: "Letters", description: "Every Tuesday and Thursday, write a letter with your current thoughts in it. Do not sign the letter, or put names in the letter. Give it to someone you do not know.", points: 3500 },
     { name: "Gender Swap", description: "Convince your friends you are swapping genders. Do not thell them you are doing this for a card. You may reroll this card for free.", points: 5000 },
     { name: "Dancing", description: "Dance all the way to all of your classes. +750 points if you always griddy.", points: 3250 },
-    { name: "Bri' ish", description: "Act British all month. Never break character.", points: 5000 },
     // Add more monthly cards as needed
 ];
 
