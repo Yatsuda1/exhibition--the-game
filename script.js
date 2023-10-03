@@ -2,7 +2,7 @@
 const dailyCards = [
     { name: "Friendly", description: "WIthin one passing period, identify 15 people you recognise.", points: 100 },
     { name: "Good Student", description: "Complete two homework assignments before school gets out", points: 150 },
-    { name: "Hot Potato", description: "Find someone else playing exhibition. Treat this card as hot potato. Everyone who successfully gets rid of this card also gets 200 points.", points: 350 },
+    { name: "Hot Potato", description: "Find someone else playing exhibition. Treat this card as a hot potato. Everyone who successfully gets rid of this card also gets 200 points.", points: 350 },
     { name: "Game Time!", description: "Find a friend at any point and play the penis game with them. You must get to a shouting level. Card is automatically failed if you get caught.", points: 500 },
     { name: "Good Friend", description: "Give two of your friends gifts woth more than $5. Gifts may come from campus closet.", points: 500 },
     { name: "Hat Head", description: "Wear 5 hats at the same time. Do not steal any stranger's hats.", points: 350 },
@@ -16,7 +16,7 @@ const dailyCards = [
     { name: "Free!", description: "Free 250 points. If you wish to veto this card, the price is zero points.", points: 250 },
     { name: "Tag", description: "Find someone else who drew this card, and play tag with them. If you are the only one who drew this card, you may choose who to play tag with. Whoever is it by the end of the day loses 500 points.", points: 500 },
     { name: "Game Time!", description: "Challenge a friend to a simple game. Example: Uno, tic tac toe. If you win, you get 300 points, if you lose, you get 300 points taken off your total.", points: 300 },
-    { name: "Poster Child", description: "Put up 3 posters stealthily thurought the day, one in the Auditorium, One in C house somewhere, and one in a location of your choosing. Each poster must have something on it that will get it taken down. If you get caught putting it up, you do not claim the points for this card.", points: 500 },
+    { name: "Poster Child", description: "Put up 3 posters stealthily thurought the day, one in the Auditorium, one in C house somewhere, and one in a location of your choosing. Each poster must have something on it that will get it taken down. If you get caught putting it up, you do not claim the points for this card.", points: 500 },
     { name: "Colorful", description: "Give yourself some tatoos. Markers will do. Must be visible, and you must have at least 3. Make them large enough that you could see it from another table.", points: 250 },
     { name: "Patriotism", description: "During the entirety of the advisory hour, you must salute the flag. Do not say anything, and do not let anyone make you break. If someone physically moves you, you may resume the form without losing the card. +500 points if you are down on one knee the entire time.", points: 350 },
     { name: "Wasteful", description: "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
@@ -36,10 +36,10 @@ const weeklyCards = [
     { name: "L", description: "Write an L on your forehead. It must stay there all week.", points: 1500 },
     { name: "Aggressive Hand Signs", description: "Flip off Mrs. Florip 3 times thurought the week. Must be on 3 seperate days. +1000 points if she notices.", points: 2000 },
     { name: "Attractive", description: "Talk to 5 of your teachers. You must bring up in casual conversation that they look really hot.", points: 1500 },
-    { name: "Never Forget", description: "Once per day, put a sticky not on King Stoppa's old door that reads, -We Miss You King Stoppa", points: 1250 },
+    { name: "Never Forget", description: "Once per day, put a sticky note on King Stoppa's old door that reads, -We Miss You King Stoppa", points: 1250 },
     { name: "Scary!", description: "Find Evan McDonald, and scare him each day.", points: 1500 },
     { name: "Wrong Season", description: "Each day, dress for christmas. If it is Christmas season, dress for halloween.", points: 1500 },
-    { name: "Bet!", description: "Sacrafice one of your weekly cards, and triple the point value of your last remaining challenge. If you do not complete the card by the end of the week, you lose the points from your total score. You do not need to accept this card, you may veto it for zero cost.", points: 0 },
+    { name: "Bet!", description: "Sacrafice one of your weekly cards, and triple the point value of your last remaining challenges. If you do not complete the card by the end of the week, you lose the points from your total score. You do not need to accept this card, you may veto it for zero cost.", points: 0 },
     { name: "Sucks to Suck", description: "You do not get a third weekly challenge. You do not get any points for this card. You cannot veto this card. Sucks to Suck", points: 0 },
     { name: "History Major", description: "During a lunch hour, get a friend who is also playing Exhibition to recreate a historic event. 1500 points to each of you.", points: 1500 },
     // Add more weekly cards as needed
@@ -47,7 +47,7 @@ const weeklyCards = [
 
 const monthlyCards = [
     { name: "Bandwagon", description: "Get 2 people each to join in and play Exhibition. +500 points per extra person.", points: 3000 },
-    { name: "Completionist", description: "Complete every weekly challenge with using a veto.", points: 3250 },
+    { name: "Completionist", description: "Complete every weekly challenge without using a veto.", points: 4250 },
     { name: "Collector", description: "Get 100 signatures from 100 different students. No repeats, and you may only collect signature during school hours. Signatures must be on paper.", points: 3500 },
     { name: "Baker", description: "Bring in cookies for every class you have, twice this month. You must have enough cookies for each person.", points: 3750 },
     { name: "Dieting", description: "Go vegan for the whole month", points: 3500 },
@@ -57,8 +57,8 @@ const monthlyCards = [
     { name: "Foodie", description: "Go through a different lunch line every day. Eat a full meal from the line, you must finish the full meal.", points: 3250 },
     { name: "Repitition", description: "Draw a 4th card from the weekly card pile. It now acts as your monthly card, and you must use it each week. You may only veto this card before you decide to draw the weekly card.", points: 3500 },
     { name: "Letters", description: "Every Tuesday and Thursday, write a letter with your current thoughts in it. Do not sign the letter, or put names in the letter. Give it to someone you do not know.", points: 3500 },
-    { name: "Gender Swap", description: "Convince your friends you are swapping genders. Do not thell them you are doing this for a card. You may reroll this card for free.", points: 5000 },
-    { name: "Dancing", description: "Dance all the way to all of your classes. +750 points if you always griddy.", points: 3250 },
+    { name: "Gender Swap", description: "Convince your friends you are swapping genders. Do not tell them you are doing this for a card. You may reroll this card for free.", points: 5000 },
+    { name: "Dancing", description: "Dance all the way to all of your classes. +750 points if you griddy everywhere.", points: 3250 },
     // Add more monthly cards as needed
 ];
 
