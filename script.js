@@ -23,6 +23,8 @@ const dailyCards = [
     { name: "Pencil Connisour", description: "Use a different pencil each hour. You must use at least 3 wooden #2 pencils.", points: 150},
     { name: "Bri' ish", description: "Act British all day. Never break character.", points: 500 },
     { name: "Tone Deaf", description: "Hum a song thorought the day. 100 points per person that guesses the song correctly.", points: 100},
+    { name: "Inspirational Messages", description: "Write a message on the white board of 5 of your classes.", points: 350 },
+    { name: "Trading", description: "Trade seats with one person each hour. The person you trade seats with does not need to be playing Exhibition. If you trade seats with someone who IS playing Exhibition, they also gets the points for this card.", points: 300 },
     // Add more daily cards as needed
 ];
 
