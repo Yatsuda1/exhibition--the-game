@@ -44,6 +44,8 @@ const weeklyCards = [
     { name: "Bet!", description: "Sacrafice one of your weekly cards, and triple the point value of your last remaining challenges. If you do not complete the card by the end of the week, you lose the points from your total score. You do not need to accept this card, you may veto it for zero cost.", points: 0 },
     { name: "Sucks to Suck", description: "You do not get a third weekly challenge. You do not get any points for this card. You cannot veto this card. Sucks to Suck", points: 0 },
     { name: "History Major", description: "During a lunch hour, get a friend who is also playing Exhibition to recreate a historic event. 1500 points to each of you.", points: 1500 },
+    { name: "Wordle", description: "Complete the Wordle each day.", points: 1250 },
+    { name: "Author", description: "Write a story that is at least 2500 words long. Print it out, and put it on Mr. Thatcher's Bookshelf (E-205). It must have a front cover.", points: 1750 },
     // Add more weekly cards as needed
 ];
 
@@ -61,6 +63,9 @@ const monthlyCards = [
     { name: "Letters", description: "Every Tuesday and Thursday, write a letter with your current thoughts in it. Do not sign the letter, or put names in the letter. Give it to someone you do not know.", points: 3500 },
     { name: "Gender Swap", description: "Convince your friends you are swapping genders. Do not tell them you are doing this for a card. You may reroll this card for free.", points: 5000 },
     { name: "Dancing", description: "Dance all the way to all of your classes. +750 points if you griddy everywhere.", points: 3250 },
+    { name: "Seasonal", description: "During the month, collect items that correlate to the season. At the end, give it to your favourite teacher. There must be at least 10 unique items in the collection.", points: 2000 },
+    { name: "Arts and Crafts", description: "Create a drawing/painting each week. Put some real time into it. Put them up around the high school on the friday of each week.", points: 2500 },
+    { name: "Sculptor", description: "Create a sculpture of anything you wish. Show it off at the end of the month. Make this sculpture at least as big as your head.", points: 3000 },
     // Add more monthly cards as needed
 ];
 
