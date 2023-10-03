@@ -22,7 +22,7 @@ const dailyCards = [
     { name: "Wasteful", description: "Write one of your assignments completely outside the margins of the page. You may only write the title and subtitle on the top.", points: 250 },
     { name: "Pencil Connisour", description: "Use a different pencil each hour. You must use at least 3 wooden #2 pencils.", points: 150},
     { name: "Bri' ish", description: "Act British all month. Never break character.", points: 500 },
-    { name: "Tone Deaf", description: "Hum a song thorought the day. 100 points per person that guesses the song correctly.", points: 100x},
+    { name: "Tone Deaf", description: "Hum a song thorought the day. 100 points per person that guesses the song correctly.", points: 100},
     // Add more daily cards as needed
 ];
 
